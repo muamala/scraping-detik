@@ -15,4 +15,5 @@ for image in images:
     print (image.find('a').find('img')['title'])
 
 # print(titles)
+# done
 
